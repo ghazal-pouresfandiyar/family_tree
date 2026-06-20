@@ -7,7 +7,7 @@ from pathlib import Path
 
 BASE_DIR = Path(__file__).parent
 TREE_FILE = BASE_DIR / "tree.txt"
-OUTPUT_FILE = BASE_DIR / "site" / "index.html"
+OUTPUT_FILE = BASE_DIR / "index.html"
 
 COLORS = [
     "#c07b8a", "#7ba5c4", "#8bc47b", "#c4a87b", "#b07bc4",
