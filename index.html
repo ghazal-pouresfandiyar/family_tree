@@ -24,20 +24,6 @@
   .hero .subtitle { font-size: clamp(14px, 2.5vw, 20px); color: #8c6e50; font-style: italic; }
   .hero .ornament { font-size: 24px; color: #c3a578; margin-top: 12px; }
   .scroll-hint { font-size: 12px; color: #a08060; margin-top: 8px; font-style: italic; }
-  .print-btn { display: inline-block; margin-top: 8px; padding: 6px 16px; background: #c3a578; color: #fff; border: none; border-radius: 6px; font-size: 12px; cursor: pointer; font-family: inherit; }
-  .print-btn:hover { background: #a08060; }
-
-  @media print {
-    .hero { padding: 20px; break-after: avoid; }
-    .print-btn { display: none; }
-    .scroll-hint { display: none; }
-    .branch-section { break-inside: avoid; opacity: 1 !important; transform: none !important; }
-    .siblings-scroll { overflow: visible !important; }
-    .siblings-row { flex-wrap: wrap !important; }
-    .kids-scroll { overflow: visible !important; }
-    .kids-row { flex-wrap: wrap !important; }
-    body { background: #fff; }
-  }
 
   .root-wrapper { text-align: center; padding: 36px 20px 16px; opacity: 0; transform: translateY(30px); transition: opacity 0.8s ease, transform 0.8s ease; }
   .root-wrapper.visible { opacity: 1; transform: translateY(0); }
@@ -137,7 +123,6 @@
   </div>
   <div class="ornament" style="margin-top:6px">&#10022; &#10022; &#10022;</div>
   <div class="scroll-hint">Scroll left/right to see all family members</div>
-  <button class="print-btn" onclick="window.print()">Save as PDF</button>
 </div>
 
 <div id="tree-container"></div>
