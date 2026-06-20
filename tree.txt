@@ -1,6 +1,6 @@
 Roghaye & Yousef : Agha_Hajbaba m, Madarbozorg f  
-Khanoum_joon & Agha_Hajbaba : Fattah m , Amo_Yousef m, Amo_Nasrollah m, Amo_Fazi m, Mehdi m, Ame_Parvin f
-Madarbozorg & Aghabozorg :  Khale_Mina f, Khale_Sousan f, Khale_Kobra f, Day_Ali m, Samin f, Khale_Maryam f, Day_Ahmad m, Khale_Zahra f, Khale_Razi f
+Khanoum_joon & Agha_Hajbaba : Ame_Parvin f , Fattah m , Amo_Yousef m, Amo_Fazi m, Mehdi m, Amo_Nasrollah m
+Madarbozorg & Aghabozorg :  Khale_Maryam f, Samin f, Khale_Zahra f, Day_Ali m, Day_Ahmad m, Khale_Razi f, Khale_Kobra f, Khale_Sousan f, Khale_Mina f
 Samin & Fattah : Azin f, Ashkan m
 Azin & Kurosch : 0
 Zanamo_Sedighe & Amo_Yousef : Aryan m, Barman m
